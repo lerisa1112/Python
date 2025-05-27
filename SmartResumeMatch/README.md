@@ -17,9 +17,9 @@ Toggle between Dark and Light Themes.
 🧰 Libraries Used:
 
 tkinter	
-fitz (PyMuPDF)	
-pandas	
-spacy	
-sklearn	
-messagebox	
-filedialog	
+,fitz (PyMuPDF)	
+,pandas	
+,spacy	
+,sklearn	
+,messagebox	
+,filedialog	
