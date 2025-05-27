@@ -1,0 +1,11 @@
+Title,Description,Skills,Salary
+Software Engineer,"We are looking for a Software Engineer with experience in backend development, REST APIs, and databases.","Python, Java, SQL, REST APIs",80000
+Data Scientist,"Join our data team to work on machine learning models, data analysis, and visualization tasks.","Python, Machine Learning, Pandas, Scikit-learn, Tableau",95000
+Frontend Developer,"Develop interactive UIs using React and JavaScript. Collaborate with UX designers and backend teams.","JavaScript, HTML, CSS, React, Figma",78000
+AI Research Intern,"Work on cutting-edge AI research projects involving NLP, transformers, and deep learning models.","PyTorch, NLP, Transformers, HuggingFace, BERT",45000
+DevOps Engineer,"Manage CI/CD pipelines, cloud infrastructure, and monitor application performance.","Docker, Kubernetes, Jenkins, AWS, Linux",92000
+Cybersecurity Analyst,"Responsible for threat detection, penetration testing, and securing digital assets.","Penetration Testing, Wireshark, Python, Kali Linux, Risk Assessment",87000
+Cloud Architect,"Design and deploy scalable cloud architectures using AWS, GCP, and container orchestration.","AWS, GCP, Kubernetes, Terraform, CloudFormation",130000
+Product Manager,"Lead cross-functional teams to deliver product roadmaps. Work closely with stakeholders and engineering teams.","Agile, Scrum, Roadmapping, Stakeholder Management, Communication",110000
+UI/UX Designer,"Design user-friendly interfaces, conduct user research, and create prototypes for web/mobile apps.","Figma, Sketch, User Research, Wireframing, Prototyping",70000
+Blockchain Developer,"Develop decentralized applications, smart contracts, and blockchain protocols.","Solidity, Ethereum, Web3, Smart Contracts, Truffle",100000
